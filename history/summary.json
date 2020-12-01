@@ -5,7 +5,7 @@
     "slug": "my-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 187
+    "time": 238
   },
   {
     "name": "Google",
@@ -13,7 +13,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 63
+    "time": 59
   },
   {
     "name": "Wikipedia",
@@ -21,7 +21,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 97
+    "time": 78
   },
   {
     "name": "Hacker News",
@@ -29,6 +29,6 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "time": 292
+    "time": 342
   }
 ]
