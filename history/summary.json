@@ -5,7 +5,15 @@
     "slug": "my-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 214
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 212,
+    "timeDay": 199,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212
   },
   {
     "name": "Google",
@@ -13,7 +21,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 66
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 85,
+    "timeDay": 109,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85
   },
   {
     "name": "Wikipedia",
@@ -21,7 +37,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 89
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 113,
+    "timeDay": 139,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113
   },
   {
     "name": "Hacker News",
@@ -29,6 +53,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "time": 353
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 445,
+    "timeDay": 553,
+    "timeWeek": 445,
+    "timeMonth": 445,
+    "timeYear": 445
   }
 ]
