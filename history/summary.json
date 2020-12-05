@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 199,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212
+    "time": 203,
+    "timeDay": 151,
+    "timeWeek": 203,
+    "timeMonth": 203,
+    "timeYear": 203
   },
   {
     "name": "Google",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 109,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85
+    "time": 92,
+    "timeDay": 136,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92
   },
   {
     "name": "Wikipedia",
@@ -42,7 +42,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 139,
+    "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 553,
-    "timeWeek": 445,
-    "timeMonth": 445,
-    "timeYear": 445
+    "time": 448,
+    "timeDay": 467,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448
   }
 ]
