@@ -24,18 +24,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 173,
-    "timeWeek": 110,
-    "timeMonth": 83,
+    "timeDay": 201,
+    "timeWeek": 115,
+    "timeMonth": 85,
     "timeYear": 82,
-    "dailyMinutesDown": {
-      "2022-01-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 157,
-    "timeWeek": 196,
-    "timeMonth": 193,
-    "timeYear": 160,
+    "time": 164,
+    "timeDay": 1011,
+    "timeWeek": 306,
+    "timeMonth": 222,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 387,
-    "timeDay": 358,
-    "timeWeek": 274,
+    "time": 386,
+    "timeDay": 292,
+    "timeWeek": 267,
     "timeMonth": 280,
-    "timeYear": 381,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2021-03-15": 200
     }
