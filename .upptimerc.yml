@@ -12,6 +12,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: Stack Overflow
+    url: https://stackoverflow.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
