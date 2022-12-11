@@ -4,17 +4,17 @@
     "url": "https://blog.tldr.plus",
     "icon": "https://icons.duckduckgo.com/ip3/blog.tldr.plus.ico",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "78.68%",
+    "uptimeDay": "78.67%",
     "uptimeWeek": "81.81%",
-    "uptimeMonth": "94.25%",
-    "uptimeYear": "97.60%",
-    "time": 1387,
-    "timeDay": 1985,
-    "timeWeek": 1957,
-    "timeMonth": 1846,
-    "timeYear": 1681,
+    "uptimeMonth": "94.36%",
+    "uptimeYear": "97.61%",
+    "time": 1389,
+    "timeDay": 2097,
+    "timeWeek": 1973,
+    "timeMonth": 1859,
+    "timeYear": 1684,
     "dailyMinutesDown": {
       "2022-12-11": 201,
       "2022-12-10": 106,
@@ -47,8 +47,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 960,
       "2022-09-20": 345,
-      "2022-09-05": 179,
-      "2022-05-20": 61
+      "2022-09-05": 179
     }
   },
   {
