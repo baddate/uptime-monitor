@@ -69,14 +69,14 @@
     "url": "https://i.zhem.us/",
     "icon": "https://icons.duckduckgo.com/ip3/i.zhem.us.ico",
     "slug": "linx",
-    "status": "up",
-    "uptime": "98.07%",
-    "uptimeDay": "79.76%",
+    "status": "down",
+    "uptime": "98.08%",
+    "uptimeDay": "80.73%",
     "uptimeWeek": "95.35%",
     "uptimeMonth": "97.78%",
-    "uptimeYear": "98.07%",
+    "uptimeYear": "98.08%",
     "time": 1584,
-    "timeDay": 2841,
+    "timeDay": 2115,
     "timeWeek": 2719,
     "timeMonth": 1901,
     "timeYear": 1584,
@@ -122,8 +122,7 @@
       "2022-09-20": 63,
       "2022-09-19": 41,
       "2022-09-18": 152,
-      "2022-09-12": 91,
-      "2022-09-02": 16
+      "2022-09-12": 91
     }
   },
   {
