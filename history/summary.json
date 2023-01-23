@@ -13,7 +13,7 @@
     "time": 1628,
     "timeDay": 1267,
     "timeWeek": 1530,
-    "timeMonth": 2104,
+    "timeMonth": 2111,
     "timeYear": 1776,
     "dailyMinutesDown": {
       "2023-01-03": 334,
@@ -69,14 +69,14 @@
     "url": "https://i.zhem.us/",
     "icon": "https://icons.duckduckgo.com/ip3/i.zhem.us.ico",
     "slug": "linx",
-    "status": "up",
-    "uptime": "98.09%",
-    "uptimeDay": "75.49%",
+    "status": "down",
+    "uptime": "98.16%",
+    "uptimeDay": "78.14%",
     "uptimeWeek": "90.48%",
     "uptimeMonth": "96.56%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.16%",
     "time": 1559,
-    "timeDay": 801,
+    "timeDay": 789,
     "timeWeek": 1305,
     "timeMonth": 1764,
     "timeYear": 1559,
@@ -118,8 +118,7 @@
       "2022-10-16": 41,
       "2022-10-15": 143,
       "2022-10-13": 45,
-      "2022-10-12": 31,
-      "2022-09-22": 179
+      "2022-10-12": 31
     }
   },
   {
