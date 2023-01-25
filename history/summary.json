@@ -49,9 +49,9 @@
     "url": "https://blog.oii.im",
     "icon": "https://icons.duckduckgo.com/ip3/blog.oii.im.ico",
     "slug": "wordpress-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -61,6 +61,7 @@
     "timeMonth": 490,
     "timeYear": 490,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2023-01-18": 18
     }
   },
@@ -70,18 +71,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.zhem.us.ico",
     "slug": "linx",
     "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "89.87%",
-    "uptimeMonth": "96.42%",
-    "uptimeYear": "98.18%",
+    "uptime": "98.17%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "89.92%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "98.17%",
     "time": 1562,
-    "timeDay": 1854,
+    "timeDay": 1499,
     "timeWeek": 1492,
     "timeMonth": 1785,
     "timeYear": 1562,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2023-01-24": 39,
       "2023-01-23": 132,
       "2023-01-22": 282,
@@ -118,7 +118,8 @@
       "2022-10-19": 90,
       "2022-10-18": 24,
       "2022-10-16": 41,
-      "2022-10-15": 143
+      "2022-10-15": 143,
+      "2022-10-13": 45
     }
   },
   {
@@ -166,9 +167,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "89.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "73.22%",
@@ -178,6 +179,7 @@
     "timeMonth": 194,
     "timeYear": 191,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-06-09": 103,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
