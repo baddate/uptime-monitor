@@ -5,11 +5,9 @@ repo: uptime-monitor # Your Github repository name
 # Add your sites here
 sites:
   - name: My Blog
-    url: https://blog.tldr.plus
+    url: https://hyl.im
   - name: Wordpress Blog
     url: https://blog.oii.im
-  - name: Linx
-    url: https://i.zhem.us/
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Google
