@@ -4,6 +4,8 @@ repo: uptime-monitor # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Uptime Kuma
+    url: https://uptime.zhem.us
   - name: My Blog
     url: https://hyl.im
   - name: Wordpress Blog
