@@ -1,7 +1,7 @@
 url: https://hyl.im
-status: up
-code: 200
-responseTime: 740
-lastUpdated: 2023-02-19T23:12:05.350Z
+status: down
+code: 403
+responseTime: 180
+lastUpdated: 2023-02-20T12:29:57.116Z
 startTime: Tue Dec 01 2020 01:35:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
