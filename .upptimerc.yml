@@ -7,9 +7,7 @@ sites:
   - name: Uptime Kuma
     url: https://uptime.zhem.us
   - name: My Blog
-    url: https://hyl.im
-  - name: Wordpress Blog
-    url: https://blog.oii.im
+    url: https://sanmoji.xyz
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Google
