@@ -6,6 +6,8 @@ repo: uptime-monitor # Your Github repository name
 sites:
   - name: Uptime Kuma
     url: https://uptime.zhem.us
+  - name: My New Blog
+    url: https://smj.im
   - name: My Blog
     url: https://sanmoji.xyz
   - name: Hacker News
