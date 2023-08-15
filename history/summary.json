@@ -6,7 +6,7 @@
     "slug": "uptime-kuma",
     "status": "up",
     "uptime": "96.22%",
-    "uptimeDay": "4.32%",
+    "uptimeDay": "4.78%",
     "uptimeWeek": "30.63%",
     "uptimeMonth": "84.04%",
     "uptimeYear": "96.22%",
@@ -56,13 +56,13 @@
     "url": "https://sanmoji.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sanmoji.xyz.ico",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "98.28%",
+    "uptimeDay": "98.27%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "97.84%",
-    "time": 1576,
+    "uptimeYear": "97.85%",
+    "time": 1570,
     "timeDay": 377,
     "timeWeek": 1568,
     "timeMonth": 928,
@@ -107,8 +107,7 @@
       "2022-12-15": 124,
       "2022-12-14": 188,
       "2022-12-13": 318,
-      "2022-12-12": 173,
-      "2022-12-11": 69
+      "2022-12-12": 173
     }
   },
   {
