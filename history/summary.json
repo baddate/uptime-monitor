@@ -4,7 +4,7 @@
     "url": "https://uptime.zhem.us",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.zhem.us.ico",
     "slug": "uptime-kuma",
-    "status": "up",
+    "status": "down",
     "uptime": "96.23%",
     "uptimeDay": "98.30%",
     "uptimeWeek": "30.39%",
@@ -58,18 +58,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanmoji.xyz.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "97.87%",
+    "uptime": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "97.84%",
     "time": 1569,
     "timeDay": 825,
     "timeWeek": 1418,
     "timeMonth": 900,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2023-08-16": 6,
       "2023-08-15": 60,
       "2023-08-12": 17,
       "2023-08-07": 137,
@@ -108,7 +107,8 @@
       "2022-12-16": 58,
       "2022-12-15": 124,
       "2022-12-14": 188,
-      "2022-12-13": 318
+      "2022-12-13": 318,
+      "2022-12-12": 173
     }
   },
   {
