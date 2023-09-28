@@ -22,18 +22,19 @@
     "url": "https://sanmoji.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/sanmoji.xyz.ico",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "98.90%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.87%",
+    "uptimeYear": "97.88%",
     "time": 1521,
     "timeDay": 558,
     "timeWeek": 573,
     "timeMonth": 600,
     "timeYear": 1542,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-09-27": 16,
       "2023-08-15": 60,
       "2023-08-12": 17,
@@ -73,7 +74,7 @@
       "2022-12-16": 58,
       "2022-12-15": 124,
       "2022-12-14": 188,
-      "2022-12-13": 318
+      "2022-12-13": 290
     }
   },
   {
@@ -126,7 +127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "91.45%",
+    "uptime": "91.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
