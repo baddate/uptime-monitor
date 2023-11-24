@@ -4,10 +4,8 @@ repo: uptime-monitor # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: My New Blog
-    url: https://smj.im
   - name: My Blog
-    url: https://sanmoji.xyz
+    url: https://smj.im
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Google
