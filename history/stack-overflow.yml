@@ -1,7 +1,7 @@
 url: https://stackoverflow.com
-status: up
-code: 200
-responseTime: 98
-lastUpdated: 2023-12-25T00:46:20.152Z
+status: down
+code: 429
+responseTime: 65
+lastUpdated: 2023-12-25T02:17:06.580Z
 startTime: 2022-02-05T10:16:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
