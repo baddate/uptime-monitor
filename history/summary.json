@@ -63,7 +63,7 @@
     "timeMonth": 1299,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-01-10": 175,
+      "2024-01-10": 187,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -162,7 +162,7 @@
     "url": "https://stackoverflow.com",
     "icon": "https://icons.duckduckgo.com/ip3/stackoverflow.com.ico",
     "slug": "stack-overflow",
-    "status": "down",
+    "status": "up",
     "uptime": "95.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -174,7 +174,7 @@
     "timeMonth": 136,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-01-10": 175,
+      "2024-01-10": 187,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
