@@ -6,6 +6,8 @@ repo: uptime-monitor # Your Github repository name
 sites:
   - name: My Blog
     url: https://smj.im
+  - name: My New Blog
+    url: https://oois.xyz
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Google
