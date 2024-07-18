@@ -1,7 +1,7 @@
 url: https://archlinux.org
-status: down
-code: 502
-responseTime: 3315
-lastUpdated: 2024-07-18T23:14:19.235Z
+status: up
+code: 200
+responseTime: 2711
+lastUpdated: 2024-07-18T23:24:33.290Z
 startTime: 2024-07-07T11:44:03.883Z
 generator: Upptime <https://github.com/upptime/upptime>
