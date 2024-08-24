@@ -8,7 +8,7 @@
     "uptime": "97.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.55%",
+    "uptimeMonth": "10.53%",
     "uptimeYear": "91.42%",
     "time": 468,
     "timeDay": 262,
@@ -16,7 +16,7 @@
     "timeMonth": 322,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-08-24": 1187,
+      "2024-08-24": 1194,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -76,7 +76,7 @@
     "timeMonth": 292,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2024-08-24": 1187,
+      "2024-08-24": 1194,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -326,7 +326,7 @@
     "url": "https://archlinux.org",
     "icon": "https://icons.duckduckgo.com/ip3/archlinux.org.ico",
     "slug": "arch-linux",
-    "status": "up",
+    "status": "down",
     "uptime": "0.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -338,7 +338,7 @@
     "timeMonth": 1331,
     "timeYear": 1740,
     "dailyMinutesDown": {
-      "2024-08-24": 1187,
+      "2024-08-24": 1194,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -424,7 +424,7 @@
     "timeMonth": 155,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-08-24": 1187,
+      "2024-08-24": 1194,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
