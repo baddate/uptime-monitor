@@ -16,7 +16,7 @@
     "timeMonth": 291,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-09-13": 335,
+      "2025-09-13": 534,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "66.64%",
+    "uptime": "66.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 338,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-09-13": 335,
+      "2025-09-13": 534,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -772,7 +772,7 @@
     "url": "https://archlinux.org",
     "icon": "https://icons.duckduckgo.com/ip3/archlinux.org.ico",
     "slug": "arch-linux",
-    "status": "up",
+    "status": "down",
     "uptime": "0.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 2290,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2025-09-13": 335,
+      "2025-09-13": 534,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -1186,7 +1186,7 @@
     "timeMonth": 323,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-09-13": 335,
+      "2025-09-13": 534,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
