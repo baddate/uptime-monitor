@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smj.im.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "73.64%",
+    "uptime": "73.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 275,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-11-03": 44,
+      "2025-11-03": 316,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 331,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-11-03": 44,
+      "2025-11-03": 316,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -772,7 +772,7 @@
     "url": "https://archlinux.org",
     "icon": "https://icons.duckduckgo.com/ip3/archlinux.org.ico",
     "slug": "arch-linux",
-    "status": "up",
+    "status": "down",
     "uptime": "0.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 1647,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2025-11-03": 44,
+      "2025-11-03": 316,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -1186,7 +1186,7 @@
     "timeMonth": 349,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-11-03": 44,
+      "2025-11-03": 316,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
