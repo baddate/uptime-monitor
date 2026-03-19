@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smj.im.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "68.50%",
+    "uptime": "68.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 297,
-    "timeDay": 1021,
-    "timeWeek": 486,
-    "timeMonth": 487,
+    "timeDay": 313,
+    "timeWeek": 475,
+    "timeMonth": 468,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2026-03-18": 62,
+      "2026-03-19": 62,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -379,8 +380,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "60.58%",
+    "uptime": "60.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 317,
-    "timeDay": 226,
-    "timeWeek": 191,
-    "timeMonth": 230,
+    "timeDay": 351,
+    "timeWeek": 227,
+    "timeMonth": 227,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2026-03-18": 62,
+      "2026-03-19": 62,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -763,8 +764,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   },
   {
@@ -778,13 +778,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 1487,
-    "timeDay": 1724,
-    "timeWeek": 1750,
-    "timeMonth": 1800,
+    "time": 1488,
+    "timeDay": 1473,
+    "timeWeek": 1696,
+    "timeMonth": 1794,
     "timeYear": 1613,
     "dailyMinutesDown": {
-      "2026-03-18": 62,
+      "2026-03-19": 62,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -1147,8 +1148,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   },
   {
@@ -1162,10 +1162,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 315,
-    "timeWeek": 150,
-    "timeMonth": 158,
+    "time": 186,
+    "timeDay": 101,
+    "timeWeek": 157,
+    "timeMonth": 152,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -1175,18 +1175,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stackoverflow.com.ico",
     "slug": "stack-overflow",
     "status": "up",
-    "uptime": "44.73%",
+    "uptime": "44.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 314,
-    "timeDay": 536,
-    "timeWeek": 333,
-    "timeMonth": 350,
+    "timeDay": 399,
+    "timeWeek": 350,
+    "timeMonth": 348,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2026-03-18": 63,
+      "2026-03-19": 62,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -1549,8 +1550,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   }
 ]
